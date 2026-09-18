@@ -124,7 +124,7 @@ profit-prediction-app/
 
 \*\*Imane Ahachi\*\*
 
-\- LinkedIn : https://www.linkedin.com/in/imane-ahachi-a26218288/
+\- LinkedIn : https://www.linkedin.com/in/imane-ahachi/
 
 \- GitHub : https://github.com/imaneahachi
 
