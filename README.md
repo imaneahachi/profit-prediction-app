@@ -1,4 +1,4 @@
-\# 💰 Système de Prédiction de Profits d'Entreprise
+\ 💰 Système de Prédiction de Profits d'Entreprise
 
 
 
@@ -6,7 +6,7 @@ Application web interactive développée avec \*\*Streamlit\*\* pour prédire le
 
 
 
-\## 🎯 Fonctionnalités
+\ 🎯 Fonctionnalités
 
 
 
@@ -24,7 +24,7 @@ Application web interactive développée avec \*\*Streamlit\*\* pour prédire le
 
 
 
-\## 🛠️ Technologies utilisées
+\ 🛠️ Technologies utilisées
 
 
 
